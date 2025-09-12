@@ -1,0 +1,14 @@
+C:\Users\shish\RiderProjects\VIA\AbbaApp\bin\Debug\net9.0\AbbaApp.exe
+C:\Users\shish\RiderProjects\VIA\AbbaApp\bin\Debug\net9.0\AbbaApp.deps.json
+C:\Users\shish\RiderProjects\VIA\AbbaApp\bin\Debug\net9.0\AbbaApp.runtimeconfig.json
+C:\Users\shish\RiderProjects\VIA\AbbaApp\bin\Debug\net9.0\AbbaApp.dll
+C:\Users\shish\RiderProjects\VIA\AbbaApp\bin\Debug\net9.0\AbbaApp.pdb
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.AssemblyInfoInputs.cache
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.AssemblyInfo.cs
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.csproj.CoreCompileInputs.cache
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.dll
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\refint\AbbaApp.dll
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.pdb
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\AbbaApp.genruntimeconfig.cache
+C:\Users\shish\RiderProjects\VIA\AbbaApp\obj\Debug\net9.0\ref\AbbaApp.dll

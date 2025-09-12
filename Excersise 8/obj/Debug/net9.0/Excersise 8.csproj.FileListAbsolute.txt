@@ -1,0 +1,14 @@
+C:\Users\shish\RiderProjects\VIA\Excersise 8\bin\Debug\net9.0\Excersise 8.exe
+C:\Users\shish\RiderProjects\VIA\Excersise 8\bin\Debug\net9.0\Excersise 8.deps.json
+C:\Users\shish\RiderProjects\VIA\Excersise 8\bin\Debug\net9.0\Excersise 8.runtimeconfig.json
+C:\Users\shish\RiderProjects\VIA\Excersise 8\bin\Debug\net9.0\Excersise 8.dll
+C:\Users\shish\RiderProjects\VIA\Excersise 8\bin\Debug\net9.0\Excersise 8.pdb
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.AssemblyInfoInputs.cache
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.AssemblyInfo.cs
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.csproj.CoreCompileInputs.cache
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.dll
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\refint\Excersise 8.dll
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.pdb
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\Excersise 8.genruntimeconfig.cache
+C:\Users\shish\RiderProjects\VIA\Excersise 8\obj\Debug\net9.0\ref\Excersise 8.dll

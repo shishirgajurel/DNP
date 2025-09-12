@@ -1,0 +1,14 @@
+C:\Users\shish\RiderProjects\VIA\VIA\bin\Debug\net9.0\VIA.exe
+C:\Users\shish\RiderProjects\VIA\VIA\bin\Debug\net9.0\VIA.deps.json
+C:\Users\shish\RiderProjects\VIA\VIA\bin\Debug\net9.0\VIA.runtimeconfig.json
+C:\Users\shish\RiderProjects\VIA\VIA\bin\Debug\net9.0\VIA.dll
+C:\Users\shish\RiderProjects\VIA\VIA\bin\Debug\net9.0\VIA.pdb
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.AssemblyInfoInputs.cache
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.AssemblyInfo.cs
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.csproj.CoreCompileInputs.cache
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.dll
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\refint\VIA.dll
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.pdb
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\VIA.genruntimeconfig.cache
+C:\Users\shish\RiderProjects\VIA\VIA\obj\Debug\net9.0\ref\VIA.dll
